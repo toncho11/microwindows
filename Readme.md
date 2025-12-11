@@ -1,3 +1,8 @@
+Home of:
+* nxdsktop
+* nxjpeg
+* nxselect
+
 # Microwindows or the Nano-X Window System
 
 Microwindows or Nano-X is a small graphical windowing system that implements
@@ -101,3 +106,4 @@ The chief maintainer of the project is Greg Haerr <greg@censoft.com>
 
 Microwindows and Nano-X issues can be discussed in Discussions or by opening
 an Issue.
+
