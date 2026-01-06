@@ -1,4 +1,4 @@
-Home of nxdsktop for [Microwindows / Nano X](https://github.com/ghaerr/microwindows) for [ELKS](https://github.com/ghaerr/elks) and its companion applications.
+Home of nxdsktop for [Microwindows / Nano X](https://github.com/ghaerr/microwindows) and its companion applications for the [ELKS](https://github.com/ghaerr/elks) operating system.
 
 <img width="640" height="480" alt="nxdsktop" src="https://github.com/user-attachments/assets/c3727980-050c-4263-b11a-cea87bff5dcf" />
 
@@ -11,6 +11,7 @@ Home of nxdsktop for [Microwindows / Nano X](https://github.com/ghaerr/microwind
 Actual code development is done in branches. Main branch is https://github.com/toncho11/microwindows/tree/start_menu
 
 Image used in the screenshot was marked as "free". The image is used only for demonstration purposes of nxjpeg.
+
 
 
 
