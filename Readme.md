@@ -11,8 +11,7 @@ Home of NXDSKTOP for [Microwindows / Nano X](https://github.com/ghaerr/microwind
 
 Actual code development is done in branches. Main branch is https://github.com/toncho11/microwindows/tree/start_menu
 
-Image used in the screenshot was marked as "free". The image is used only for demonstration purposes of nxjpeg.
-
+Image used in the screenshot was marked as "free to use" and downloaded from [Pexels](https://www.pexels.com/fr-fr/photo/photographie-en-niveaux-de-gris-d-une-femme-se-frottant-le-cou-1778821/). The image is used only for technical demonstration purposes of nxjpeg. It is in low resolution, low color and no commercial use is intended.
 
 
 
