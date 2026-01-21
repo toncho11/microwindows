@@ -1,4 +1,4 @@
-Home of NXDSKTOP - a graphical desktop environment for [Nano X](https://github.com/ghaerr/microwindows) and its companion applications for the [ELKS](https://github.com/ghaerr/elks) operating system. NXDSKTOP can run on the oldest x86 machine - the IBM 5150/5160, but at least an 8 MHz machine such as the Amstrad 1640 is recommended.
+Home of NXDSKTOP - a graphical desktop environment for [Nano X](https://github.com/ghaerr/microwindows) and its companion applications for the [ELKS](https://github.com/ghaerr/elks) operating system. NXDSKTOP can run on the oldest x86 machine - the IBM 5150/5160, but at least an 8 MHz machine such as the Amstrad 1640 is recommended. A 286,386 or 486 will be even better.
 
 <img width="640" height="480" alt="nxdsktop" src="https://github.com/toncho11/microwindows/blob/master/screenshots/nxdsktop_1.1_img1.png" />
 
@@ -12,6 +12,7 @@ Home of NXDSKTOP - a graphical desktop environment for [Nano X](https://github.c
 Actual code development is done in branches. Main branch is https://github.com/toncho11/microwindows/tree/start_menu
 
 Image used in the screenshot was marked as "free to use" and downloaded from [Pexels](https://www.pexels.com/fr-fr/photo/photographie-en-niveaux-de-gris-d-une-femme-se-frottant-le-cou-1778821/). It is under the Pexels license that allows free use without attribution. The image is used for technical demonstration purposes of nxjpeg.
+
 
 
 
