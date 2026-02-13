@@ -7,11 +7,12 @@ Home of NXDSKTOP - a x86 graphical desktop environment for [Nano X](https://gith
   * You can also learn more about its [design principles](https://github.com/toncho11/microwindows/wiki/Design-principles)
 * nxjpeg - jpg image viewer with 3 color modes, 2 render modes and 3 smoothing modes. Images might need to be optimized for ELKS (size, resolution, etc). This is explained in the source file of nxjpeg
 * nxselect - a graphical file selector app
-* nxmsg - an app that displays a message box with title, text and can aligh text left/center/right
+* nxmsg - an app that displays a message box text with title. Text can be alighed left/center/right
 
 Actual code development is done in branches. Main branch is https://github.com/toncho11/microwindows/tree/start_menu
 
 Image used in the screenshot was marked as "free to use" and downloaded from [Pexels](https://www.pexels.com/fr-fr/photo/photographie-en-niveaux-de-gris-d-une-femme-se-frottant-le-cou-1778821/). It is under the Pexels license that allows free use without attribution. The image is used for technical demonstration purposes of nxjpeg.
+
 
 
 
