@@ -6,6 +6,7 @@ Home of NXDSKTOP - a x86 graphical desktop environment with companion applicatio
   * How to use nxdsktop? Check the [online help/documentation](https://github.com/toncho11/microwindows/wiki) for more details
   * You can also learn more about its [design principles](https://github.com/toncho11/microwindows/wiki/Design-principles)
 * nxjpeg - jpg image viewer with 3 color modes, 2 render modes and 3 smoothing modes. Images might need to be optimized for ELKS (size, resolution, etc). This is explained in the source file of nxjpeg
+* nxedit - a new Nano-x based editor - usable, but needs furhter polishing
 * nxselect - a graphical file selector app
 * nxmsg - an app that displays a message box text with title. Text can be alighed left/center/right
 
